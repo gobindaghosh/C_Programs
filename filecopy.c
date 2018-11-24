@@ -1,5 +1,6 @@
 //copying a file content into another file 
 //Normal method
+//Lets check it out
 #include "stdio.h"
 #include "stdlib.h" 
 
