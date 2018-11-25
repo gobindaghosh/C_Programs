@@ -3,6 +3,7 @@
 * For Example 3 factorial is  3 * 2 * 1 = 6
 */
 #include<stdio.h>
+#include "string.h"
 void main()
 {
 	int a, fact;
@@ -29,4 +30,5 @@ int x;
 	}
 
 	return f;
+
 }
